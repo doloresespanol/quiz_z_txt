@@ -1,0 +1,15 @@
+pytanie
+pytanieopis
+a
+b
+c
+d
+1
+---
+pytanie2
+pytanieopis2
+a
+b
+c
+d
+1
